@@ -1,3 +1,9 @@
+---
+title: Hermes Agent
+sdk: gradio
+app_port: 7860
+---
+
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
